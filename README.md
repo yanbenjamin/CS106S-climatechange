@@ -12,6 +12,7 @@ You'll find
 - `elevation_map.js`: For visualizing an elevation map of the Grand Canyon and use false-color palettes to elucidate topographical features.
 - `sat_mosaic.js`: For visualizing a temporal mosaic of Landsat satellite data captured over the 2016 year.
 - `vegetation.js`: For calculating the vegetation indices of Landsat imagery, as well as changes over time.
-- `forest_cover.js`: For tracking global deforestation through forest cover maps.  
+- `forest_cover.js`: For tracking global deforestation through forest cover maps.
+- `supplementary.js`: Supplemental reference code (specifically for MODIS satellite and precipitation data)
 
 Within each code file, the listed parts are all *self-contained*---that is, each constitute an entire code script for the Earth Engine.
