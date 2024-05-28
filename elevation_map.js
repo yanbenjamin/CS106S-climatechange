@@ -29,4 +29,4 @@ Map.setCenter(-112.8598, 36.2841, 9);
 // add the image to the Map below, and use a color palette
 // going from blue to white to green in the elevation range [0,3000]
 Map.addLayer(image, {min: 0, max: 3000, 
-          palette: ["white","white","green"]});
+          palette: ["blue","white","green"]});
