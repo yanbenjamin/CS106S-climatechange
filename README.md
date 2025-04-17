@@ -1,7 +1,7 @@
 # CS 106S: CS for Climate Change
 Starter code for class, based on the Earth Engine tutorials at https://developers.google.com/earth-engine/tutorials/tutorial_api_02.
 
-<img src="https://github.com/yanbenjamin/cs106s-climate/assets/84124256/e01e4920-9df0-4c2e-9da7-e8b07c28b28b" width=50% height=50%>
+<img src="earthengine-image.png" width=60% height=60%>
 <p>Diagram from this <a href = "https://developers.google.com/earth-engine/guides/playground">link</a>.</p>
 
  
